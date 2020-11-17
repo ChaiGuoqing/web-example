@@ -9,7 +9,7 @@
 - [在线文档](http://newgateway.gitee.io/my/) -->
 
 <!-- ## 预览 -->
-![1](@/src/assets/Dingtalk_20201117172012.jpg)
+![1](./src/assets/Dingtalk_20201117172012.jpg)
 
 <!-- ![2](http://newgateway.gitee.io/my-web/preview/2.png)
 
