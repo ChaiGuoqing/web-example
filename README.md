@@ -9,9 +9,9 @@
 - [在线文档](http://newgateway.gitee.io/my/) -->
 
 <!-- ## 预览 -->
-<!-- ![1](http://newgateway.gitee.io/my-web/preview/1.png)
+![1](@/src/assets/Dingtalk_20201117172012.jpg)
 
-![2](http://newgateway.gitee.io/my-web/preview/2.png)
+<!-- ![2](http://newgateway.gitee.io/my-web/preview/2.png)
 
 ![3](http://newgateway.gitee.io/my-web/preview/3.png)
 
